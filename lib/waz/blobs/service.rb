@@ -1,5 +1,6 @@
 module WAZ
   module Blobs
+    ## none
     # This is internally used by the waz-blobs part of the gem and it exposes the Windows Azure Blob API REST methods 
     # implementation. You can use this class to perform an specific operation that isn't provided by the current API.
     class Service
